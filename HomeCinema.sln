@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema", "HomeCinema\HomeCinema.csproj", "{71D78285-E43A-46EE-93E7-80DAA922C255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Entities", "HomeCinema.Entities\HomeCinema.Entities.csproj", "{29991207-0D95-4A41-B4D7-B3D571DA7024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Data", "HomeCinema.Data\HomeCinema.Data.csproj", "{16B17C8C-747A-4825-8CC1-D9B3AF13B28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D78285-E43A-46EE-93E7-80DAA922C255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D78285-E43A-46EE-93E7-80DAA922C255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D78285-E43A-46EE-93E7-80DAA922C255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D78285-E43A-46EE-93E7-80DAA922C255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29991207-0D95-4A41-B4D7-B3D571DA7024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29991207-0D95-4A41-B4D7-B3D571DA7024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29991207-0D95-4A41-B4D7-B3D571DA7024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29991207-0D95-4A41-B4D7-B3D571DA7024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B17C8C-747A-4825-8CC1-D9B3AF13B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B17C8C-747A-4825-8CC1-D9B3AF13B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B17C8C-747A-4825-8CC1-D9B3AF13B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B17C8C-747A-4825-8CC1-D9B3AF13B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
